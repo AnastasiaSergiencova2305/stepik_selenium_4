@@ -1,1 +1,1 @@
-# stepik_selenium_4
+# Repository for the final draft of the course "Test Automation with Selenium and Python" on Stepik
